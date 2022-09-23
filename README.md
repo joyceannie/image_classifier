@@ -12,9 +12,9 @@ $ python predict.py /path/to/image saved_model
 
 ## Options:
 
-``` 
+
 --top_k : Return the top K most likely classes:
-```
+
 
 ```
 $ python predict.py /path/to/image saved_model --top_k K
